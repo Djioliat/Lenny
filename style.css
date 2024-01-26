@@ -1,0 +1,15 @@
+.image-profil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.profil {
+    background-color: aqua;
+    text-align: center;
+}
+.presentation {
+    background-color: greenyellow;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
